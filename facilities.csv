@@ -1,0 +1,61 @@
+facility_id,facility_name,ramp,elevator,accessible_toilet,doorway_width_cm,handrails,accessible_parking,accessibility_label
+F001,Main Library,Yes,Yes,No,82,Yes,No,Partially Accessible
+F002,Science Building,Yes,No,No,102,No,Yes,Partially Accessible
+F003,Gymnasium,Yes,Yes,Yes,92,Yes,Yes,Accessible
+F004,Student Canteen,Yes,Yes,Yes,74,Yes,No,Not Accessible
+F005,Admin Office,Yes,Yes,No,108,No,No,Partially Accessible
+F006,Clinic,Yes,No,No,112,Yes,No,Partially Accessible
+F007,Auditorium,Yes,No,Yes,96,No,No,Partially Accessible
+F008,Computer Lab 1,Yes,Yes,Yes,116,Yes,Yes,Accessible
+F009,Computer Lab 2,Yes,Yes,No,62,Yes,No,Not Accessible
+F010,Registrar,No,No,Yes,74,No,No,Not Accessible
+F011,Chapel,Yes,No,No,80,Yes,Yes,Partially Accessible
+F012,Faculty Lounge,No,Yes,Yes,82,Yes,No,Partially Accessible
+F013,Engineering Hall,No,No,Yes,102,Yes,No,Not Accessible
+F014,Arts Building,Yes,No,No,88,Yes,Yes,Partially Accessible
+F015,Swimming Pool Area,Yes,Yes,Yes,60,No,Yes,Not Accessible
+F016,Covered Court,Yes,Yes,Yes,94,Yes,No,Accessible
+F017,Bookstore,Yes,No,No,98,No,Yes,Partially Accessible
+F018,Guidance Office,Yes,No,Yes,64,Yes,Yes,Not Accessible
+F019,Cashier,Yes,No,No,102,No,No,Accessible
+F020,Dormitory A,Yes,Yes,No,106,No,No,Partially Accessible
+F021,Dormitory B,Yes,Yes,Yes,88,Yes,No,Partially Accessible
+F022,Research Center,Yes,Yes,No,66,Yes,Yes,Not Accessible
+F023,Music Room,Yes,Yes,Yes,90,Yes,Yes,Accessible
+F024,Language Lab,No,Yes,No,98,Yes,No,Partially Accessible
+F025,Student Center,No,No,No,80,No,No,Not Accessible
+F026,Alumni Hall,Yes,No,Yes,110,Yes,No,Partially Accessible
+F027,Parking Annex,Yes,No,Yes,92,Yes,Yes,Accessible
+F028,Maintenance Office,No,Yes,No,112,No,Yes,Partially Accessible
+F029,Security Office,No,Yes,Yes,112,Yes,No,Accessible
+F030,Cafe Corner,No,Yes,Yes,70,No,Yes,Not Accessible
+F031,Nursing Lab,No,Yes,No,86,No,Yes,Partially Accessible
+F032,Physics Lab,Yes,Yes,No,66,No,No,Not Accessible
+F033,Chemistry Lab,No,Yes,No,120,Yes,Yes,Partially Accessible
+F034,Biology Lab,No,No,No,90,Yes,No,Not Accessible
+F035,Lecture Hall 1,No,Yes,No,72,Yes,No,Not Accessible
+F036,Lecture Hall 2,Yes,Yes,Yes,100,Yes,No,Accessible
+F037,Lecture Hall 3,Yes,Yes,Yes,102,Yes,No,Accessible
+F038,Conference Room,No,Yes,Yes,90,No,Yes,Partially Accessible
+F039,Training Room,Yes,Yes,No,64,No,Yes,Not Accessible
+F040,Prayer Room,Yes,No,Yes,74,No,No,Not Accessible
+F041,Recreation Hall,No,Yes,Yes,104,Yes,No,Accessible
+F042,Sports Office,Yes,No,Yes,88,No,No,Partially Accessible
+F043,Health Center,No,Yes,Yes,102,Yes,Yes,Partially Accessible
+F044,Innovation Hub,Yes,No,Yes,114,Yes,Yes,Accessible
+F045,Makerspace,No,No,No,92,Yes,No,Not Accessible
+F046,Archive Room,Yes,Yes,Yes,102,Yes,Yes,Accessible
+F047,Print Shop,Yes,No,Yes,118,No,No,Partially Accessible
+F048,Mail Room,Yes,No,Yes,96,Yes,Yes,Accessible
+F049,Lobby Annex,Yes,No,Yes,116,Yes,Yes,Accessible
+F050,Faculty Building,Yes,No,Yes,104,Yes,Yes,Accessible
+F051,Business Hall,Yes,Yes,No,84,Yes,No,Partially Accessible
+F052,Education Hall,No,Yes,No,92,Yes,Yes,Partially Accessible
+F053,Law Library,Yes,No,Yes,94,Yes,Yes,Partially Accessible
+F054,Exam Center,Yes,Yes,Yes,114,Yes,Yes,Accessible
+F055,Multimedia Room,No,No,Yes,98,No,No,Not Accessible
+F056,Student Affairs,Yes,Yes,No,62,No,Yes,Not Accessible
+F057,Orientation Hall,No,Yes,Yes,116,Yes,No,Accessible
+F058,Visitor Center,No,No,Yes,64,Yes,No,Not Accessible
+F059,Old Gym,No,Yes,Yes,66,No,No,Not Accessible
+F060,Annex Building,Yes,Yes,Yes,108,Yes,No,Accessible
