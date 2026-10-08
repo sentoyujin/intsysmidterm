@@ -1,6 +1,3 @@
-# train.py
-# Facility Accessibility Classification (Midterm Group 28)
-#
 # What this script does:
 #   1. Loads the CSV dataset
 #   2. Checks the data (missing values, duplicates, wrong labels)
@@ -11,8 +8,6 @@
 #   7. Picks the better model
 #   8. Saves everything into model_bundle.joblib for the Streamlit app
 #
-# How to run it (open the terminal inside this folder):
-#   python train.py
 
 import os
 import joblib
