@@ -7,7 +7,6 @@
 #   6. Tests both models and prints their scores
 #   7. Picks the better model
 #   8. Saves everything into model_bundle.joblib for the Streamlit app
-#
 
 import os
 import joblib
@@ -17,7 +16,6 @@ from sklearn.model_selection import train_test_split
 from sklearn.model_selection import cross_val_score
 from sklearn.model_selection import StratifiedKFold
 from sklearn.tree import DecisionTreeClassifier
-from sklearn.tree import export_text
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.metrics import accuracy_score
 from sklearn.metrics import precision_score
@@ -103,7 +101,7 @@ for column_name in yes_no_columns:
     X[column_name] = X[column_name].map(yes_no_map)
 
 print("Yes/No Values -> 1/0's Sucess!")
-print("Dataset first 5 rows changes sample:") # TODO change
+print("Dataset first 5 rows changes sample:")
 print(X.head())
 print("")
 
@@ -253,6 +251,7 @@ bundle = {
 }
 
 joblib.dump(bundle, bundle_file_path)
+comparison_table.round(4).to_csv(results_file_path)
 
-print("Saved model_bundle.joblib")
+print("Saved model_bundle.joblib & comparison_result.csv!")
 print("Done!")
