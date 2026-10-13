@@ -227,7 +227,6 @@ st.markdown(
 
 st.divider()
 
-# Credits - replace each "Enter name" with the real member name
 group_members = ["Crisostomo, Jerome M.", "Tividad, Eric Jr. V.", "Viado, Jose Miguel B."]
 
 st.markdown("**Midterm Project | Made by Group 28:**")
