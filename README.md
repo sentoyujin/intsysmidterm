@@ -11,6 +11,7 @@ Given a few details about a facility (ramp, elevator, accessible toilet, handrai
 - **`model_bundle.joblib`** - the saved trained models and scores to be used by **`app.py`**.
 - **`facilities.csv`** - the main dataset used to train the models.
 - **`comparison_result.csv`** - comparison evaluation scores on both models.
+- **`Midterm Project_AN 42_Crisostomo, Tividad, Viado.pdf`** - documentation file that includes models performance comparsion, interpretation, limitaitons, and critical-thinking questions.
 
 ## How to Run
 ### Prerequisites
